@@ -2,7 +2,8 @@
 
 ### Olá 👋
 
-Meu nome é Giovani, sou desenvolvedor de sistemas a mais de 8 anos.
+Meu nome é Giovani, trabalho no desenvolvimento de sistemas a mais de 8 anos. <br>
+Sou formado em tecnólogo de Analise e Desenvolvimento de Sistemas e Pós-Graduado em Engenharia de Software para Métodos Ágeis.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GiovaniDaSilva&show_icons=true&theme=dracula)
 
