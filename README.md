@@ -2,7 +2,7 @@
 
 ### Olá 👋
 
-Meu nome é Giovani, sou desenvolvedor de sistemas a mais de 7 anos.
+Meu nome é Giovani, sou desenvolvedor de sistemas a mais de 8 anos.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GiovaniDaSilva&show_icons=true&theme=dracula)
 
