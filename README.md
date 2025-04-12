@@ -5,7 +5,8 @@
 Meu nome é Giovani, trabalho no desenvolvimento de sistemas a mais de 8 anos. <br>
 Sou formado em tecnólogo de Analise e Desenvolvimento de Sistemas e Pós-Graduado em Engenharia de Software para Métodos Ágeis.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GiovaniDaSilva&show_icons=true&theme=dracula)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=GiovaniDaSilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GiovaniDaSilva&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
