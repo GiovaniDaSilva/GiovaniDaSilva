@@ -2,7 +2,7 @@
 
 ### Olá 👋
 
-Meu nome é Giovani, trabalho no desenvolvimento de sistemas a mais de 8 anos. <br>
+Meu nome é Giovani, trabalho no desenvolvimento de sistemas a mais de 12 anos. <br>
 Sou formado em tecnólogo de Analise e Desenvolvimento de Sistemas e Pós-Graduado em Engenharia de Software para Métodos Ágeis.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=GiovaniDaSilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
