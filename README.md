@@ -11,6 +11,13 @@ Sou formado em tecnólogo de Analise e Desenvolvimento de Sistemas e Pós-Gradua
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GiovaniDaSilva&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
+---
+
+### 💼 Projeto em destaque
+
+- **[GDSGYM](https://gdsgym.com.br)** – Plataforma web para geração personalizada de treinos de musculação, com foco em variedade, divisão por subtreinos, acompanhamento de histórico e experiência do usuário.
+
+---
 
 <h3 align="left">Linguagens e Ferramentas:</h3>
 <p align="left"> 
