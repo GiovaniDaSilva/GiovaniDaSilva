@@ -17,6 +17,7 @@ Sou formado em tecnólogo de Analise e Desenvolvimento de Sistemas e Pós-Gradua
 
 - **[GDSGYM](https://gdsgym.com.br)** – Plataforma web para geração personalizada de treinos de musculação, com foco em variedade, divisão por subtreinos, acompanhamento de histórico e experiência do usuário.
 
+- **[UpLyric](https://uplyric.com.br)** – Plataforma interativa para estudo de inglês através de músicas, com letras sincronizadas em tempo real, traduções integradas e gerenciamento de vocabulário personalizado.
 ---
 
 <h3 align="left">Linguagens e Ferramentas:</h3>
