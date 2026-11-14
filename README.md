@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=BD93F9&center=true&vCenter=true&width=600&lines=Olá%2C+eu+sou+o+Giovani+👋;Coordenador+de+Sistemas+Sênior;+12%2B+anos+desenvolvendo+software;Apaixonado+por+IA+e+produtos+web" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=BD93F9&center=true&vCenter=true&width=500&lines=Ol%C3%A1%2C+eu+sou+o+Giovani;Coordenador+de+Sistemas+S%C3%AAnior;12%2B+anos+desenvolvendo+software;Apaixonado+por+IA+e+produtos+web" alt="Giovani da Silva" />
 
 <br/>
 
