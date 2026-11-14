@@ -74,13 +74,18 @@ Atuo no desenvolvimento de sistemas há mais de **12 anos**. Sou graduado em **A
 <br/><br/>
 
 <!-- Gerados pelo GitHub Actions (workflow profile-summary.yml): não dependem de servidor externo -->
-<img src="./profile-summary-card-output/dracula/0-profile-details.svg" alt="Perfil" width="48%" />
-<img src="./profile-summary-card-output/dracula/3-stats.svg" alt="Stats" width="48%" />
+<img src="./profile-summary-card-output/dracula/0-profile-details.svg" alt="Perfil" width="780" />
 
-<img src="./profile-summary-card-output/dracula/2-most-commit-language.svg" alt="Linguagens mais usadas nos commits" width="48%" />
-<img src="./profile-summary-card-output/dracula/1-repos-per-language.svg" alt="Repositórios por linguagem" width="48%" />
-
-<img src="./profile-summary-card-output/dracula/4-productive-time.svg" alt="Horário mais produtivo" width="97%" />
+<table>
+  <tr>
+    <td valign="top"><img src="./profile-summary-card-output/dracula/3-stats.svg" alt="Stats" width="380" /></td>
+    <td valign="top"><img src="./profile-summary-card-output/dracula/2-most-commit-language.svg" alt="Linguagens mais usadas nos commits" width="380" /></td>
+  </tr>
+  <tr>
+    <td valign="top"><img src="./profile-summary-card-output/dracula/1-repos-per-language.svg" alt="Repositórios por linguagem" width="380" /></td>
+    <td valign="top"><img src="./profile-summary-card-output/dracula/4-productive-time.svg" alt="Horário mais produtivo" width="380" /></td>
+  </tr>
+</table>
 
 </div>
 
