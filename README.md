@@ -5,9 +5,7 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovani-da-silva-97a93279/)
-[![Talkinho](https://img.shields.io/badge/Talkinho-6C5CE7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://talkinho.com.br/)
-[![GDSGYM](https://img.shields.io/badge/GDSGYM-E63946?style=for-the-badge&logo=googlechrome&logoColor=white)](https://gdsgym.com.br)
- 
+
 ![Visitas](https://komarev.com/ghpvc/?username=GiovaniDaSilva&label=Visitas&color=bd93f9&style=flat-square)
 
 </div>
