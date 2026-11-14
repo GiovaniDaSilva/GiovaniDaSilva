@@ -1,54 +1,93 @@
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/giovani-da-silva-97a93279/)](https://www.linkedin.com/in/giovani-da-silva-97a93279/)
+<div align="center">
 
-### Olá 👋
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=BD93F9&center=true&vCenter=true&width=600&lines=Olá%2C+eu+sou+o+Giovani+👋;Coordenador+de+Sistemas+Sênior;+12%2B+anos+desenvolvendo+software;Apaixonado+por+IA+e+produtos+web" alt="Typing SVG" />
 
-Meu nome é Giovani, trabalho no desenvolvimento de sistemas a mais de 12 anos. <br>
-Sou formado em tecnólogo de Analise e Desenvolvimento de Sistemas e Pós-Graduado em Engenharia de Software para Métodos Ágeis.
+<br/>
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovani-da-silva-97a93279/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GiovaniDaSilva)
+[![Talkinho](https://img.shields.io/badge/Talkinho-6C5CE7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://talkinho.com.br/)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=GiovaniDaSilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+![Visitas](https://komarev.com/ghpvc/?username=GiovaniDaSilva&label=Visitas&color=bd93f9&style=flat-square)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GiovaniDaSilva&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
+</div>
 
 ---
 
-### 💼 Projeto em destaque
+## 👨‍💻 Sobre mim
 
+Atuo no desenvolvimento de sistemas há mais de **12 anos**. Sou graduado em **Análise e Desenvolvimento de Sistemas** e pós-graduado em **Engenharia de Software para Métodos Ágeis**. Atualmente, trabalho como **Coordenador de Sistemas Sênior**, unindo liderança técnica e mão na massa em projetos próprios.
 
-
-- **[Talkinho](https://talkinho.com.br/)** – Plataforma web de conversação com IA para estudos de inglês, contando com modos de conversa, gramática, leitura, tradução, descrição de imagem e muito mais.
-  
-- **[GDSGYM](https://gdsgym.com.br)** – Plataforma web para geração personalizada de treinos de musculação, com foco em variedade, divisão por subtreinos, acompanhamento de histórico e experiência do usuário.
-
-- **[UpLyric](https://uplyric.com.br)** – Plataforma interativa para estudo de inglês através de músicas, com letras sincronizadas em tempo real, traduções integradas e gerenciamento de vocabulário personalizado.
 ---
 
-<h3 align="left">Linguagens e Ferramentas:</h3>
-<p align="left"> 
+## 🚀 Projetos em Destaque
 
- 
-  
-  <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>   <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a>  <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>   <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>    <a href="https://ionicframework.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a>   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>    <a href="https://angular.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a>   <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>   <a href="https://mariadb.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a>  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>   <a href="https://www.oracle.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>  <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-  
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>🗣️ <a href="https://talkinho.com.br/">Talkinho</a></h3>
+      <p>Plataforma de conversação com IA para estudar inglês: modos de conversa, gramática, leitura, tradução, descrição de imagem e mais.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🏋️ <a href="https://gdsgym.com.br">GDSGYM</a></h3>
+      <p>Geração personalizada de treinos de musculação, com variedade, divisão por subtreinos e acompanhamento de histórico.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🎵 <a href="https://uplyric.com.br">UpLyric</a></h3>
+      <p>Estudo de inglês através de músicas, com letras sincronizadas, traduções integradas e vocabulário personalizado.</p>
+    </td>
+  </tr>
+</table>
 
-  </p>
+---
 
+## 🛠️ Stack
 
-<!--
-**GiovaniDaSilva/GiovaniDaSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+</div>
 
+---
+
+## 📈 Estatísticas
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=GiovaniDaSilva&theme=dracula&hide_border=true" alt="GitHub Streak" />
+
+<br/><br/>
+
+<!-- Gerados pelo GitHub Actions (workflow profile-summary.yml): não dependem de servidor externo -->
+<img src="./profile-summary-card-output/dracula/0-profile-details.svg" alt="Perfil" width="48%" />
+<img src="./profile-summary-card-output/dracula/3-stats.svg" alt="Stats" width="48%" />
+
+<img src="./profile-summary-card-output/dracula/2-most-commit-language.svg" alt="Linguagens mais usadas nos commits" width="48%" />
+<img src="./profile-summary-card-output/dracula/1-repos-per-language.svg" alt="Repositórios por linguagem" width="48%" />
+
+<img src="./profile-summary-card-output/dracula/4-productive-time.svg" alt="Horário mais produtivo" width="97%" />
+
+</div>
+
+---
+
+<div align="center">
+
+⭐ Curtiu algum projeto? Deixe uma estrela e fique à vontade para entrar em contato!
+
+</div>
