@@ -5,6 +5,7 @@
 Meu nome é Giovani, trabalho no desenvolvimento de sistemas a mais de 12 anos. <br>
 Sou formado em tecnólogo de Analise e Desenvolvimento de Sistemas e Pós-Graduado em Engenharia de Software para Métodos Ágeis.
 
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=GiovaniDaSilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
 
 
@@ -15,6 +16,10 @@ Sou formado em tecnólogo de Analise e Desenvolvimento de Sistemas e Pós-Gradua
 
 ### 💼 Projeto em destaque
 
+
+
+- **[Talkinho](https://talkinho.com.br/)** – Plataforma web de conversação com IA para estudos de inglês, contando com modos de conversa, gramática, leitura, tradução, descrição de imagem e muito mais.
+  
 - **[GDSGYM](https://gdsgym.com.br)** – Plataforma web para geração personalizada de treinos de musculação, com foco em variedade, divisão por subtreinos, acompanhamento de histórico e experiência do usuário.
 
 - **[UpLyric](https://uplyric.com.br)** – Plataforma interativa para estudo de inglês através de músicas, com letras sincronizadas em tempo real, traduções integradas e gerenciamento de vocabulário personalizado.
